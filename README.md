@@ -1,6 +1,3 @@
-# U_Net-DeepLabV3-FCNN-lung-segmentation
- This project compares U-Net, FCN, and DeepLabv3 models for instance-level lung image segmentation
-
 # Abstract
 This project aims to compare and evaluate the performance of three popular models for image segmentation—U-Net, FCN (Fully Convolutional Network), and DeepLabv3—specifically in the task of lung image segmentation by instance. The goal is to accurately segment lung regions in medical images, distinguishing individual instances of lungs.
 
