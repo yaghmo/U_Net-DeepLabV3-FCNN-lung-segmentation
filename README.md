@@ -1,3 +1,5 @@
+[![Lung segmentation benchmark: the 20-second video (click to play)](assets/brag.jpg)](assets/brag.mp4)
+
 # Abstract
 This project aims to compare and evaluate the performance of three popular models for image segmentation—U-Net, FCN (Fully Convolutional Network), and DeepLabv3—specifically in the task of lung image segmentation by instance. The goal is to accurately segment lung regions in medical images, distinguishing individual instances of lungs.
 
